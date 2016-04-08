@@ -1,0 +1,32 @@
+/* Pon tu código css aqui */
+.contenedor
+{
+	border: 1px solid #C0C0C0;
+	width: 600px;
+}
+.contenedor .caja
+{
+	
+	line-height: 80px;
+	width: 25%;
+	height: 100px;
+	
+
+
+
+}
+.blo1
+{
+	background: #FFFF00;
+	
+}
+.blo2
+{
+	background: #4682B4;
+}
+	
+.blo3
+{
+	background: #FF69B4;
+	
+}
